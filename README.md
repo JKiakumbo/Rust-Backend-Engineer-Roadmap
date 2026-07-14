@@ -66,9 +66,9 @@ By the end of this roadmap, you should be able to:
 
 ## Resources
 
-* 📖 *The Rust Programming Language*
-* 📖 *Rust by Example*
-* 📖 *Rustlings*
+* 📖 *[The Rust Programming Language](https://doc.rust-lang.org/book/)*
+* 📖 *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
+* 📖 *[Rustlings](https://rustlings.rust-lang.org/)*
 
 ## Mini Projects
 
