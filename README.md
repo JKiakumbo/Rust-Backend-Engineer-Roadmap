@@ -36,11 +36,11 @@ By the end of this roadmap, you should be able to:
 
 ## Topics
 
-* [ ] Variables and mutability
-* [ ] Ownership
-* [ ] Borrowing
-* [ ] Lifetimes
-* [ ] Structs
+* [x] Variables and mutability
+* [x] Ownership
+* [x] Borrowing
+* [x] Lifetimes
+* [x] Structs
 * [ ] Enums
 * [ ] Pattern matching
 * [ ] Traits
