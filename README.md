@@ -41,8 +41,8 @@ By the end of this roadmap, you should be able to:
 * [x] Borrowing
 * [x] Lifetimes
 * [x] Structs
-* [ ] Enums
-* [ ] Pattern matching
+* [x] Enums
+* [x] Pattern matching
 * [ ] Traits
 * [ ] Generics
 * [ ] Modules
