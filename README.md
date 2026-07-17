@@ -44,7 +44,7 @@ By the end of this roadmap, you should be able to:
 * [x] Enums
 * [x] Pattern matching
 * [ ] Traits
-* [ ] Generics
+* [x] Generics
 * [ ] Modules
 * [ ] Crates
 * [ ] Workspaces
