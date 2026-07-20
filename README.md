@@ -45,8 +45,8 @@ By the end of this roadmap, you should be able to:
 * [x] Pattern matching
 * [x] Traits
 * [x] Generics
-* [ ] Modules
-* [ ] Crates
+* [x] Modules
+* [x] Crates
 * [ ] Workspaces
 * [ ] Error handling (`Result`, `Option`)
 * [ ] `thiserror`
