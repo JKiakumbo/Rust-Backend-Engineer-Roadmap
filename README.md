@@ -47,7 +47,7 @@ By the end of this roadmap, you should be able to:
 * [x] Generics
 * [x] Modules
 * [x] Crates
-* [ ] Workspaces
+* [x] Workspaces
 * [ ] Error handling (`Result`, `Option`)
 * [ ] `thiserror`
 * [ ] `anyhow`
