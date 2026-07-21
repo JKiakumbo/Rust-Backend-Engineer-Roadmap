@@ -48,7 +48,7 @@ By the end of this roadmap, you should be able to:
 * [x] Modules
 * [x] Crates
 * [x] Workspaces
-* [ ] Error handling (`Result`, `Option`)
+* [x] Error handling (`Result`, `Option`)
 * [ ] `thiserror`
 * [ ] `anyhow`
 * [ ] Collections
